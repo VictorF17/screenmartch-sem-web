@@ -9,5 +9,5 @@ public record DadosSerie(@JsonAlias("Title") String titulo,
                          @JsonAlias("totalSeasons") int totalTemporadas,
                          @JsonAlias("imdbRating") String avaliacao){
 
-}
+} //testando visual code
 
