@@ -10,4 +10,5 @@ public record DadosSerie(@JsonAlias("Title") String titulo,
                          @JsonAlias("imdbRating") String avaliacao){
 
 } //fazendo alteração direto no github
+//fazendo um teste com branch paralela de teste > incluir commit na main
 
